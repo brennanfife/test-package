@@ -1,6 +1,4 @@
 /// <reference types="react" />
-interface Props {
+export declare const RotatingText: ({ text }: {
     text: string;
-}
-export declare const RotatingText: ({ text }: Props) => JSX.Element;
-export {};
+}) => JSX.Element;
