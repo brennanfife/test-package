@@ -2,7 +2,7 @@
   "name": "testingtestingtesting-package",
   "version": "0.0.1",
   "description": "React module frame",
-  "homepage": "https://github.com/tofusoup429/react-component-module-frame",
+  "homepage": "https://github.com/brennanfife/test-package",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
