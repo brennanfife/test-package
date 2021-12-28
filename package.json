@@ -1,6 +1,6 @@
 {
   "name": "testingtestingtesting-package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React module frame",
   "homepage": "https://github.com/brennanfife/test-package",
   "main": "dist/index.js",
@@ -11,15 +11,13 @@
   "devDependencies": {
     "@types/react": ">=17.0.38",
     "@types/react-dom": ">=17.0.11",
-    "@types/styled-components": "^5.1.19",
     "react": ">=17.0.2",
     "react-dom": ">=17.0.2",
     "typescript": ">=4.5.4"
   },
   "peerDependencies": {
     "react": ">=17.0.2",
-    "react-dom": ">=17.0.2",
-    "styled-components": ">=5.3.3"
+    "react-dom": ">=17.0.2"
   },
   "files": [
     "/dist",
