@@ -1,6 +1,6 @@
 {
   "name": "testingtestingtesting-package",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React module frame",
   "homepage": "https://github.com/brennanfife/test-package",
   "main": "dist/index.js",
